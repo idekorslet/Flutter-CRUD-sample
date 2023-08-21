@@ -199,7 +199,7 @@
 
             }
             else {
-                echo "failed to create image file: $full_path_image <br>";
+                // echo "failed to create image file: $full_path_image <br>";
             }
 
             $image_index++;
