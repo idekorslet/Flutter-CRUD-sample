@@ -35,7 +35,7 @@
                 }
                 
             } catch (Exception $e) {
-                echo "Failed to create json file: $e";
+                // echo "Failed to create json file: $e";
                 $this->fail_message = "Failed to create JSON file: $e";
                 return;
             } 
@@ -55,7 +55,7 @@
                 $this->createJsonFile($json_file_location, $data, false); 
                 // echo "$json_file_location edited successfully <br>";
             } catch (Exception $e) {
-                echo "Failed to edit json file: $e";
+                // echo "Failed to edit json file: $e";
                 $this->fail_message = "Failed to edit JSON file: $e";
                 return;
             } 
@@ -72,7 +72,7 @@
 
                 return $data["total_product"];
             } catch (Exception $e) {
-                echo "Failed to get last seller product count <br>";
+                // echo "Failed to get last seller product count <br>";
                 $this->fail_message = "Failed to get last seller product count";
                 return;
             }
@@ -221,7 +221,7 @@
 
         public function sendErrorResponse($msg) {
             $error_msg = $msg;
-            echo "fail msg: " . $this->fail_message === "" ? "empty" : $this->fail_message;
+            // echo "fail msg: " . $this->fail_message === "" ? "empty" : $this->fail_message;
     
             if (!empty($this->fail_message)) {
 
