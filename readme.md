@@ -25,4 +25,4 @@ This is the folder structure i use to store images in the file system.<br>
 10. <a href="https://pub.dev/packages/smooth_page_indicator">smooth_page_indicator
 
 # Hasil Akhir / Final Result
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Mhmj4SfFIQs/0.jpg)](https://youtu.be/Mhmj4SfFIQs)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Mhmj4SfFIQs/0.jpg)](https://www.youtube.com/watch?v=Mhmj4SfFIQs)
