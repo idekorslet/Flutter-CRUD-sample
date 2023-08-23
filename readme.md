@@ -29,4 +29,5 @@ This is the folder structure i use to store images in the file system.<br>
 
 # Info tambahan / Additional Info
 
-![myproducts](https://github.com/idekorslet/Flutter-CRUD-sample/assets/80518183/d4c012b2-be6e-45de-9107-b04776030d32)
+![myproducts](https://github.com/idekorslet/Flutter-CRUD-sample/assets/80518183/18a86fb6-da54-43de-b704-b2ae54ce1d56)
+
