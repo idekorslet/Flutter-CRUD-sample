@@ -2,6 +2,9 @@
 Projek ini adalah penggunaan CRUD menggunakan Flutter dengan server/backend PHP.<br>
 This project is how to use CRUD using Flutter with PHP as server/backend.
 
+# App Demo
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Mhmj4SfFIQs/0.jpg)](https://www.youtube.com/watch?v=Mhmj4SfFIQs)
+
 # Struktur Folder / Folder Structure
 Ini adalah struktur folder yang saya gunakan untuk menyimpan gambar-gambar.<br>
 This is the folder structure i use to store images in the file system.<br>
@@ -24,5 +27,6 @@ This is the folder structure i use to store images in the file system.<br>
 9. <a href="https://pub.dev/packages/carousel_slider">carousel_slider</a><br>
 10. <a href="https://pub.dev/packages/smooth_page_indicator">smooth_page_indicator
 
-# Hasil Akhir / Final Result
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Mhmj4SfFIQs/0.jpg)](https://www.youtube.com/watch?v=Mhmj4SfFIQs)
+# Info tambahan / Additional Info
+
+![myproducts](https://github.com/idekorslet/Flutter-CRUD-sample/assets/80518183/d4c012b2-be6e-45de-9107-b04776030d32)
