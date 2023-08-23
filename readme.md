@@ -28,6 +28,8 @@ This is the folder structure i use to store images in the file system.<br>
 10. <a href="https://pub.dev/packages/smooth_page_indicator">smooth_page_indicator
 
 ## Info tambahan / Additional Info
+![dummy-login](https://github.com/idekorslet/Flutter-CRUD-sample/assets/80518183/0f3e53be-0157-480a-82d9-6513e1f07968)
+
 
 ![myproducts](https://github.com/idekorslet/Flutter-CRUD-sample/assets/80518183/18a86fb6-da54-43de-b704-b2ae54ce1d56)
 
@@ -39,4 +41,4 @@ This is the folder structure i use to store images in the file system.<br>
 ## Support
 |  |  |  |
 |--|--|--|
-| <a href="https://saweria.co/idekorslet"><img alt="saweria" width="240" src="https://user-images.githubusercontent.com/80518183/216806553-4a11d0ef-6257-461b-a3f2-430910574269.svg"></a> | | <a href="https://buymeacoffee.com/idekorslet"><img alt='Buy me a coffee' width="240" src="https://user-images.githubusercontent.com/80518183/216806363-a11d0282-517a-4512-9733-567e0d547078.png"> </a> |
+| <a href="https://saweria.co/idekorslet"><img alt="saweria" width="180" src="https://user-images.githubusercontent.com/80518183/216806553-4a11d0ef-6257-461b-a3f2-430910574269.svg"></a> | | <a href="https://buymeacoffee.com/idekorslet"><img alt='Buy me a coffee' width="180" src="https://user-images.githubusercontent.com/80518183/216806363-a11d0282-517a-4512-9733-567e0d547078.png"> </a> |
