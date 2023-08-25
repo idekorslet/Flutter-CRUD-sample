@@ -35,13 +35,26 @@ GET --> untuk mengambil data - to get data.
 <br>
 POST --> untuk membuat, mengubah, menghapus data - to insert, edit & delete data.
 <br><br>
-| METHOD      | Descriptions     | Test Text     |
+| METHOD      | Descriptions     | Urls    |
 | :---:       |    :----         |         :---  |
 | GET         | default get data | localhost/api/get_data.php?seller_id=1&page=1&limit=20   |
 | GET         | get empty stock  | localhost/api/get_data.php?seller_id=1&filter=1&only-empty-stock=1      |
 | GET         | to sort data by stock ascending | localhost/api/get_data.php?seller_id=1&filter=1&sortby=stock-asc   |
 | GET         | to sort data by price ascending  | localhost/api/get_data.php?seller_id=1&page=2&limit=40&filter=1&sortby=price-asc      |
 | GET         | to search data by product name  | localhost/api/get_data.php?seller_id=1&search=1&name=sepatu      |
+
+
+## Insert new data
+![insert-post](https://github.com/idekorslet/Flutter-CRUD-sample/assets/80518183/c0cc1123-9459-4054-b5fa-f37138f9df9c)
+
+
+## Edit data
+![edit-post](https://github.com/idekorslet/Flutter-CRUD-sample/assets/80518183/3f770c3c-894c-4289-b4d2-b6b53982248b)
+
+
+## Delete data
+
+![delete-post](https://github.com/idekorslet/Flutter-CRUD-sample/assets/80518183/82f8bbbf-9a0c-4948-84ea-52153ea1e940)
 
 ## Info tambahan / Additional Info
 ![dummy-login](https://github.com/idekorslet/Flutter-CRUD-sample/assets/80518183/0f3e53be-0157-480a-82d9-6513e1f07968)
