@@ -27,6 +27,22 @@ This is the folder structure i use to store images in the file system.<br>
 9. <a href="https://pub.dev/packages/carousel_slider">carousel_slider</a><br>
 10. <a href="https://pub.dev/packages/smooth_page_indicator">smooth_page_indicator
 
+## Metode yang digunakan / Method Used
+Metode yang digunakan untuk proses CRUD ada 2, GET dan POST.<br>
+There are 2 methods used for the CRUD process, GET and POST.
+<br>
+GET --> untuk mengambil data - to get data.
+<br>
+POST --> untuk membuat, mengubah, menghapus data - to insert, edit & delete data.
+<br><br>
+| METHOD      | Descriptions     | Test Text     |
+| :---:       |    :----         |         :---  |
+| GET         | default get data | localhost/api/get_data.php?seller_id=1&page=1&limit=20   |
+| GET         | get empty stock  | localhost/api/get_data.php?seller_id=1&filter=1&only-empty-stock=1      |
+| GET         | to sort data by stock ascending | localhost/api/get_data.php?seller_id=1&filter=1&sortby=stock-asc   |
+| GET         | to sort data by price ascending  | localhost/api/get_data.php?seller_id=1&page=2&limit=40&filter=1&sortby=price-asc      |
+| GET         | to search data by product name  | localhost/api/get_data.php?seller_id=1&search=1&name=sepatu      |
+
 ## Info tambahan / Additional Info
 ![dummy-login](https://github.com/idekorslet/Flutter-CRUD-sample/assets/80518183/0f3e53be-0157-480a-82d9-6513e1f07968)
 
